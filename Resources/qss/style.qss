@@ -1,0 +1,62 @@
+
+QPushButton{
+	color:#ffffff;
+	font-family:Microsoft Yahei;
+	font-size:9px;
+	text-align:bottom center;
+	border-radius:10px;
+}
+
+QPushButton:hover
+{
+	background-color:rgba(45,45,45,0);
+	border:1px solid rgb(31,156,220) ;
+}
+
+QPushButton#btnText{
+	image:url(":/Resources/images/Text.png");
+	background-image:url(":/Resources/images/Text.png");
+	background-repeat:no-repeat;
+	background-position:center;	
+	background-origin:border;
+}
+
+QPushButton#btnText:pressed{
+	image:url(":/Resources/images/Text_Clicked.png");
+}
+
+QPushButton#btnLine{
+    image:url(":/Resources/images/Line.png");
+	background-image:url(":/Resources/images/Line.png");
+	background-repeat:no-repeat;
+	background-position:center;	
+	background-origin:border;
+}
+
+QPushButton#btnLine:pressed{
+    image:url(":/Resources/images/Line_Clicked.png");
+}
+
+QPushButton#btnRect{
+    image:url(":/Resources/images/Rect.png");
+	background-image:url(":/Resources/images/Rect.png");
+	background-repeat:no-repeat;
+	background-position:center;	
+	background-origin:border;
+}
+
+QPushButton#btnRect:pressed{
+    image:url(":/Resources/images/Rect_Clicked.png");
+}
+
+QPushButton#btnEllipse{
+    image:url(":/Resources/images/Ellipse.png");
+	background-image:url(":/Resources/images/Ellipse.png");
+	background-repeat:no-repeat;
+	background-position:center;	
+	background-origin:border;
+}
+
+QPushButton#btnEllipse:pressed{
+    image:url(":/Resources/images/Ellipse_Clicked.png");
+}

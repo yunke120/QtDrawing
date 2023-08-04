@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/images/Ellipse.png</file>
+        <file>Resources/images/Ellipse_Clicked.png</file>
+        <file>Resources/images/Line.png</file>
+        <file>Resources/images/Line_Clicked.png</file>
+        <file>Resources/images/Rect.png</file>
+        <file>Resources/images/Rect_Clicked.png</file>
+        <file>Resources/images/Text.png</file>
+        <file>Resources/images/Text_Clicked.png</file>
+        <file>Resources/qss/style.qss</file>
+        <file>Resources/images/New.png</file>
+        <file>Resources/images/New_Clicked.png</file>
+        <file>Resources/images/Open.png</file>
+        <file>Resources/images/Open_Clicked.png</file>
+        <file>Resources/images/Print.png</file>
+        <file>Resources/images/Print_Clicked.png</file>
+        <file>Resources/images/Save.png</file>
+        <file>Resources/images/Save_Clicked.png</file>
+        <file>Resources/images/close.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,8 @@
+*.exe
+*.pro.user
+LOGS/
+notes/
+*.xml
+*.pdf
+*.ilk
+*.pdb
